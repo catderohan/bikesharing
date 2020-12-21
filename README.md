@@ -36,5 +36,8 @@ https://datausa.io/profile/geo/des-moines-ia/#housing
 
 https://datausa.io/profile/geo/new-york-ny#housing
 
+https://www.desmoinesregister.com/story/money/business/2017/12/13/think-no-one-vacations-des-moines-think-again/941870001/
+
+https://www.baruch.cuny.edu/nycdata/tourism/index.html
 
 
