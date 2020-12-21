@@ -30,8 +30,10 @@ Using these charts, we can infer that a large portion of this bike sharing progr
 
 In Des Moines, less than 10% of people don't own cars and the average household owns 2 cars. The average commute time in Des Moines is also 18 minutes by car. This could be too far of a commute for people to ride their bikes in Des Moines.  80% of people in Des Moines drove to work where as 10% carpooled.  Compared to NYC where 55% of people use public transit to get to work and only 22% drive to work. The average number of cars in NYC per person is 0.  Knowing this information, if a bike sharing company did extend to Des Moines, I'd suggest changing the business model to not focus on commuters but tourists.  Des Moines has around 14 million visits from tourists a year. NYC has over 60 million. But even with 14 million, a bike sharing company could make profit if focusing purely on tourists and bike locations around the more popular tourist spots.  
 
-Resources
+Resources:
+
 https://datausa.io/profile/geo/des-moines-ia/#housing
+
 https://datausa.io/profile/geo/new-york-ny#housing
 
 
